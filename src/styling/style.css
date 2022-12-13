@@ -1,0 +1,33 @@
+.Search{
+    position: relative;
+    color: #000000;
+    z-index: 10;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.weather{
+    display: flexbox;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.weather>img{
+    width:5em;
+}
+
+.popupWeather{
+    width:10em;
+}
